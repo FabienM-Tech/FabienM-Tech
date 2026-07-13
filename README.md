@@ -60,7 +60,7 @@ Chaque tâche répétitive d'un administrateur est une source d'erreur et une pe
 | 📜 **Générateur de GPO** | Déploie des stratégies de groupe standardisées pour durcir et harmoniser le parc. | [➡️ Voir le projet](https://github.com/FabienM-Tech/generateur-gpo) |
 | 📁 **Générateur de partages & ACL** | Crée les dossiers partagés et applique automatiquement les droits (principe du moindre privilège). | [➡️ Voir le projet](https://github.com/FabienM-Tech/generateur-partages-smb-ntfs) |
 | 🔥 **Générateur de règles iptables** | Génère un pare-feu Linux cohérent et documenté à partir de règles simples. | [➡️ Voir le projet](https://github.com/FabienM-Tech/generateur-iptables) |
-| 🩺 **Auditeur de Contrôleur de Domaine** | Analyse un DC et attribue une **note de sécurité** avec recommandations concrètes. | [➡️ Voir le projet](#) |
+| 🩺 **Auditeur de Contrôleur de Domaine** | Analyse un DC et attribue une **note de sécurité** avec recommandations concrètes. | [➡️ Voir le projet](https://github.com/FabienM-Tech/audit-dc-hardening) |
 
 <!-- 👉 À l'Étape 4, on remplacera les "#" par les vraies URL de tes 5 dépôts. -->
 
