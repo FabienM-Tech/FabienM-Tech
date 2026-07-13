@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersécurité-red?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rôle-AdminSys%20%2F%20Réseaux-blue?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statut-En%20recherche%20d'alternance%2Femploi-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statut-En%20recherche%20de stage%2Femploi-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
