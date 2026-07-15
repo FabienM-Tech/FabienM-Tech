@@ -24,7 +24,7 @@ Je conçois des **outils d'automatisation** pour l'administration Windows et Lin
 
 Je me forme aux métiers des réseaux sécurisés et de la cybersécurité, et j'apprends surtout en construisant. Chaque notion vue en formation (Active Directory, GPO, filtrage réseau, durcissement) devient un projet concret et documenté, publié ici. Cette boîte à outils est le fil conducteur de ma progression : elle grandit au rythme de ce que j'apprends.
 
-Je suis aujourd'hui en **recherche d'alternance ou d'un premier poste** en systèmes, réseaux ou cybersécurité, où je pourrai progresser au contact d'une équipe et contribuer sérieusement.
+Je suis aujourd'hui en **recherche d'un stage ou d'un premier poste** en systèmes, réseaux ou cybersécurité, où je pourrai progresser au contact d'une équipe et contribuer sérieusement.
 
 ## Ce qui me motive
 
